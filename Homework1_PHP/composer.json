@@ -1,0 +1,22 @@
+{
+    "name": "tautis/nfq-homework",
+    "description": "Autoloading",
+    "authors": [
+        {
+            "name": "Tautvydas",
+            "email": "tautis63@gmail.com"
+        }
+    ],
+    "require": {
+        "league/climate": "^3.5"
+    },
+
+     "autoload":{
+        "files": [
+            "Nfq/Akademija/NotTyped/notTyped.php",
+            "Nfq/Akademija/Soft/soft.php",
+            "Nfq/Akademija/Strict/strict.php"
+        ]
+     }
+
+}
