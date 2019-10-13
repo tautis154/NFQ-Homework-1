@@ -1,6 +1,6 @@
 <?php
-
 namespace Homework1_PHP;
+error_reporting(0);
 require_once 'vendor/autoload.php';
 
 function calculateHomeWorkSum(int...$numbers): int{
