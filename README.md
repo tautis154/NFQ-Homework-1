@@ -1,7 +1,7 @@
 # NFQ-Homework-1
 
 #### calculateHomeWorkSum(...$numbers); //root namespace;
-Priima visus skaiciu tipus ir grazina suskaicuota sumą.
+Nenurodomas parametru tipas nei grazinamos reiksmes tipas. Kadangi tipai yra nenurodyti tai grazinama suma buna double, nes vienas kintamasis buvo double
 #### calculateHomeWorkSum(...$numbers): int; //Nfq\Akademija\NotTyped namespace;
 Priima visus skaiciu tipus, bet suma grazinama, kaip int.
 #### calculateHomeWorkSum(int...$numbers): int; //Nfq\Akademija\Soft namespace;
